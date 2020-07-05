@@ -1,0 +1,6 @@
+PROBLEM STATEMENT: We need to predict the selling price of the car which is being used (second hand)
+TARGET VARIABLE: Selling_Price
+USE: RandomForestRegressor
+
+
+
